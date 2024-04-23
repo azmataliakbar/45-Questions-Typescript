@@ -1,3 +1,5 @@
 # 45-Questions-Typescript
 <br>
-Author: Azmat Ali
+#   Q2 to Q45
+<br>
+# Author: Azmat Ali
