@@ -1,7 +1,7 @@
-# 45-Questions-Typescript
-<br>
-# Optional Assignment
-<br>
-#   Q2 to Q45
-<br>
-# Author: Azmat Ali
+45-Questions-Typescript
+
+Optional Assignment
+
+ Q2 to Q45
+
+Author: Azmat Ali
